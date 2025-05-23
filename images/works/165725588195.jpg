@@ -665,7 +665,7 @@ style="color:rgba(0,0,0,0.7)"
 <input type="hidden" name="callback" value="https%3A%2F%2Fkm%2Esankuai%2Ecom%2Fsso%2Fcallback%3Foriginal-url%3D%252Fapi%252Ffile%252Fcdn%252F2707239469%252F165725588195%253FcontentType%253D0"/>
 <input id="os" type="hidden" name="os" value=""/>
 <input id="screen" type="hidden" name="screen" value=""/>
-<input type="hidden" name="lt" value="LT-35290-WsZw4aGT53f6AhuPvwPANKPkxHPb30-ssosv.it"/>
+<input type="hidden" name="lt" value="LT-92971-JmzbVJ4UdvoRk5tCJ0Ldy8SoFvkpzU-ssosv.it"/>
 <input type="hidden" name="isFromSsoGw" value="false"/>
 <input type="hidden" name="isFromBj" value="false"/>
 <input type='hidden' name='moaInfo' class="pc-pwd-login-form-moaInfo" value=''/>
@@ -751,7 +751,7 @@ value="下一步"
 <input id="os" type="hidden" name="os" value="" />
 <input id="screen" type="hidden" name="screen" value="" />
 <input id="voiceVerifyLogin" type="hidden" name="voiceVerify" value="false" />
-<input type="hidden" name="lt" value="LT-35290-WsZw4aGT53f6AhuPvwPANKPkxHPb30-ssosv.it" />
+<input type="hidden" name="lt" value="LT-92971-JmzbVJ4UdvoRk5tCJ0Ldy8SoFvkpzU-ssosv.it" />
 <input type="hidden" name="sceneType" value="WebScene" />
 </div>
 <script id="pc-sms-areaCode-loading-tmpl" type="text/x-dot-template">
@@ -860,7 +860,7 @@ value="登录"
 <input type="hidden" name="callback" value="https%3A%2F%2Fkm%2Esankuai%2Ecom%2Fsso%2Fcallback%3Foriginal-url%3D%252Fapi%252Ffile%252Fcdn%252F2707239469%252F165725588195%253FcontentType%253D0"/>
 <input id="os" type="hidden" name="os" value=""/>
 <input id="screen" type="hidden" name="screen" value=""/>
-<input type="hidden" name="lt" value="LT-35290-WsZw4aGT53f6AhuPvwPANKPkxHPb30-ssosv.it"/>
+<input type="hidden" name="lt" value="LT-92971-JmzbVJ4UdvoRk5tCJ0Ldy8SoFvkpzU-ssosv.it"/>
 <input type="hidden" name="isFromSsoGw" value="false"/>
 <input type="hidden" name="isFromBj" value="false"/>
 <input type="hidden" name="sceneType" value="WebScene"/>
@@ -932,7 +932,7 @@ value="返回"
 <input type="hidden" name="callback" value="https%3A%2F%2Fkm%2Esankuai%2Ecom%2Fsso%2Fcallback%3Foriginal-url%3D%252Fapi%252Ffile%252Fcdn%252F2707239469%252F165725588195%253FcontentType%253D0"/>
 <input id="os" type="hidden" name="os" value=""/>
 <input id="screen" type="hidden" name="screen" value=""/>
-<input type="hidden" name="lt" value="LT-35290-WsZw4aGT53f6AhuPvwPANKPkxHPb30-ssosv.it"/>
+<input type="hidden" name="lt" value="LT-92971-JmzbVJ4UdvoRk5tCJ0Ldy8SoFvkpzU-ssosv.it"/>
 <input type='hidden' name='moaInfo' id="pc-pass-key-login-form-moaInfo" value=''/>
 <input type='hidden' name='responseJSONData' id="pc-pass-key-login-form-responseJSONData" value=''/>
 <input type='hidden' name='webTokenInfo' id="pc-pass-key-login-form-webTokenInfo" value=''/>
@@ -1010,7 +1010,7 @@ var service = "";
 var allowNoPwdLogin = false;
 var username = "";
 var clientId = "com.sankuai.it.ead.citadel";
-var loginTicket = "LT-35290-WsZw4aGT53f6AhuPvwPANKPkxHPb30-ssosv.it";
+var loginTicket = "LT-92971-JmzbVJ4UdvoRk5tCJ0Ldy8SoFvkpzU-ssosv.it";
 var authStyle = "";
 var isMobileLogin = false;
 var rawInterCode = "";
